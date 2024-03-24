@@ -22,3 +22,8 @@ prompt (difference)
 prompt (product)
 prompt (quotient)
 
+// comparison operators
+let isEqual = 10==10; //true
+let isNotEqual = 10!=5; // true
+let isGreater = 10 > 5; //false
+
