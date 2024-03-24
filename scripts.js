@@ -27,3 +27,10 @@ let isEqual = 10==10; //true
 let isNotEqual = 10!=5; // true
 let isGreater = 10 > 5; //false
 
+console.log(isEqual)
+console.log(isNotEqual)
+console.log(isGreater)
+console.log(isLess)
+
+
+
